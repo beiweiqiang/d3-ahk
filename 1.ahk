@@ -1,5 +1,7 @@
-; 按 F12 reload
-; 一直按照 2, 每隔 4s 按一次 4
+; 按 F12 reload / 停止脚本
+; ctrl + 6 开始脚本
+
+; 脚本效果: 一直按照 2, 每隔 4s 按一次 4
 
 ; reload current ahk script
 F12::
